@@ -1,7 +1,7 @@
 name: MikeJordan
 favicon: null
-layout_spectrum: 0.013896983815357089
-typography_spectrum: 0.761841174447909
+layout_spectrum: 0.99586
+typography_spectrum: 0.24917
 title: Mike Jordan
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#010101'
+    - '#aeaeae'
+    - '#d8d8d8'
+    - '#4d4d4d'
   brandStrength: 0.121176514076069
   lightness: 0.3526435603853315
   saturation: 0.6530266706831753
